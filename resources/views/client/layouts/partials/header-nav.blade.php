@@ -20,11 +20,11 @@
         </li>
 
         <li class="nav-item">
-            <a class="nav-link" href="{{ route('contact') }}">Contact</a>
+            <a class="nav-link" href=" {{ route('contact')}}">Contact</a>
         </li>
 
         <li class="nav-item">
-            <a class="nav-link" href="shop.html">Shop</a>
+            <a class="nav-link" href="{{ route('tintuc') }}">Tin Tức</a>
         </li>
     </ul>
 </div>

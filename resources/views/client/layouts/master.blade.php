@@ -35,7 +35,7 @@
 
         @include('client.layouts.partials.header-nav')
 
-        @include('client.layouts.partials.header-timkiem')
+        @include('client.layouts.partials.account')
 
       </nav>
     </div>
